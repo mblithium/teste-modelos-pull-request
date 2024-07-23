@@ -1,12 +1,8 @@
 name: Tarefa a ser realizada
-description: File a bug report.
+description: Descreva uma tarefa a ser realizada e marque os participantes.
 title: "[TODO]: "
 labels: ["TODO"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: textarea
     id: todo
     attributes:
