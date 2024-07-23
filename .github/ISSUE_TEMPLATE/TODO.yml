@@ -1,6 +1,6 @@
 name: Tarefa a ser realizada
 description: Descreva uma tarefa a ser realizada e marque os participantes.
-title: "[TODO]: "
+title: "[TAREFA]: "
 labels: ["TODO"]
 body:
   - type: textarea
