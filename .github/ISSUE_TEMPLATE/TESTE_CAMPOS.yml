@@ -25,3 +25,12 @@ body:
       render: bash
     validations:
       required: true
+  - type: input
+    id: assignees
+    attributes:
+      label: "Relacionado a"
+      description: É relacioado a quais usuários?
+      value: assignees
+    validations:
+      required: true
+    
