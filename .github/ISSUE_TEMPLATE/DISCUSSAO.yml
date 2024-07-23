@@ -1,7 +1,7 @@
 name: Discussão de Ideias
 description: Descreva uma tarefa a ser realizada e marque os participantes.
 title: "[DISCUSSAO]: "
-labels: ["DISCUSSAO"]
+labels: ["Discussão"]
 body:
   - type: textarea
     id: todo
