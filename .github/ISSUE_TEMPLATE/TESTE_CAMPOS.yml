@@ -9,19 +9,19 @@ body:
       label: Tarefas
       description: O que precisa ser feito?
       placeholder: Criar um banner com uma torradeira com óculos escuro e bem maneira. 
-    value: ""
+      value: ""
     validations:
       required: true
   - type: textarea
     id: testRender
     attributes:
-    label: Renderizador predefinido.
-    description: "Trecho de código:"
-    value: |
-      1.
-      2.
-      3.
-      ...
-    render: bash
+      label: Renderizador predefinido.
+      description: "Trecho de código:"
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: bash
     validations:
       required: true
