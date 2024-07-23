@@ -8,8 +8,7 @@ body:
     attributes:
       label: Tarefas
       description: O que precisa ser feito?
-      placeholder: Criar um banner com uma torradeira com óculos escuro e bem maneira. 
-
-      Tarefa deve ser realizada utilizando somente a imaginação.
+      placeholder: "Criar um banner com uma torradeira com óculos escuro e bem maneira. \nTarefa deve ser realizada utilizando somente a imaginação."
+      
     validations:
       required: true
