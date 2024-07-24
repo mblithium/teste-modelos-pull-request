@@ -25,7 +25,7 @@ body:
     attributes:
       label: Passos para reproduzir o problema
       description: Nos conte os passos que são feitos para conseguirmos reproduzir o mesmo problema.
-      placeholder: "Por exemplo: 1. Entre na pagina site.com.br;\n2. Vá com o mouse até o canto superior direito e localize o botão Nova Conta;\n3. Clique com o botão direito do mouse."
+      placeholder: "Por exemplo: \n1. Entre na pagina site.com.br;\n2. Vá com o mouse até o canto superior direito e localize o botão Nova Conta;\n3. Clique com o botão direito do mouse."
     validations:
       required: true
 
@@ -34,6 +34,6 @@ body:
     attributes:
       label: Ambiente e informações adicionais
       description: Qual dispositivo você usou?
-      placeholder: "Por exemplo: Navegador: Firefox/100.2.0 e Chrome/43.0.2357.65.\nOS: Ubuntu 20.04."
+      placeholder: "Por exemplo: \nNavegador: Firefox/100.2.0 e Chrome/43.0.2357.65.\nOS: Ubuntu 20.04."
     validations:
       required: false
