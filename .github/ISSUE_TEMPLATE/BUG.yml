@@ -6,7 +6,7 @@ body:
     id: descricao
     attributes:
       label: Descrição
-      description: Descreva o que está acontecendo de errado
+      description: Descreva o problema
       placeholder: "Por exemplo: o botão para criar conta não aparece..."
     validations:
       required: true
