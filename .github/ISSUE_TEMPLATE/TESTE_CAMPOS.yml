@@ -20,7 +20,6 @@ body:
       value: |
         - [ ] - teste 1
         - [ ] - teste 2
-      render: bash
     validations:
       required: true
   - type: input
