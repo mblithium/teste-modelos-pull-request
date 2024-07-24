@@ -29,11 +29,11 @@ body:
     validations:
       required: true
 
-    - type: textarea
-      id: adicional
-      attributes:
-        label: Ambiente e informações adicionais
-        description: Qual dispositivo você usou?
-        placeholder: "Por exemplo: Navegador: Firefox/100.2.0 e Chrome/43.0.2357.65.\nOS: Ubuntu 20.04."
-      validations:
-        required: false
+  - type: textarea
+    id: adicional
+    attributes:
+      label: Ambiente e informações adicionais
+      description: Qual dispositivo você usou?
+      placeholder: "Por exemplo: Navegador: Firefox/100.2.0 e Chrome/43.0.2357.65.\nOS: Ubuntu 20.04."
+    validations:
+      required: false
