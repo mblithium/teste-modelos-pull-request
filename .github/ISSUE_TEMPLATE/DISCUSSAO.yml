@@ -1,8 +1,6 @@
 name: Discussão de Ideias
 description: Discutir questões relacionadas ao projeto.
 title: "[Discussão]: "
-labels: ["Discussão"]
-assignees: ["mblithium"]
 body:
   - type: textarea
     id: descricao
