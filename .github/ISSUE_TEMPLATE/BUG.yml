@@ -26,8 +26,6 @@ body:
       label: Passos para reproduzir o problema
       description: Nos conte os passos que são feitos para conseguirmos reproduzir o mesmo problema.
       placeholder: "Por exemplo: 1. Entre na pagina site.com.br;\n2. Vá com o mouse até o canto superior direito e localize o botão Nova Conta;\n3. Clique com o botão direito do mouse."
-      value: |
-        1. ;\n2. ;\n3. ;
     validations:
       required: true
 
