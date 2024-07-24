@@ -2,6 +2,7 @@ name: Discussão de Ideias
 description: Descreva uma tarefa a ser realizada e marque os participantes.
 title: "[DISCUSSAO]: "
 labels: ["Discussão"]
+assignees: ["mblithium"]
 body:
   - type: textarea
     id: descricao
