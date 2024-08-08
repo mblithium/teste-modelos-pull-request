@@ -16,6 +16,6 @@ body:
     attributes:
       label: Recurso
       description: Seu feedback é sobre qual recurso do projeto?
-      placeholder: "Por exemplo: menu "hambúrguer" do header."
+      placeholder: "Por exemplo: menu hambúrguer do header."
     validations:
       required: true
